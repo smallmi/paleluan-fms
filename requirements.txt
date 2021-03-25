@@ -63,7 +63,7 @@ pysnmp==4.3.9
 python-dateutil==2.6.1
 pytz==2017.2
 pywbem==0.10.0
-PyYAML==3.12
+PyYAML==5.4
 pyzabbix==0.7.4
 requests==2.18.4
 reversion==0.2
