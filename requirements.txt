@@ -23,7 +23,7 @@ django-formtools==2.1
 django-guardian==1.4.9
 django-import-export==0.5.1
 django-paginator==0.2a3
-django-registration==2.2
+django-registration==3.1.2
 django-reversion==2.0.10
 django-xadmin==0.5.0
 DjangoUeditor==1.8.143
