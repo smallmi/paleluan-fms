@@ -1,5 +1,5 @@
 amqp==1.4.9
-ansible==2.3.2.0
+ansible==2.9.20
 anyjson==0.3.3
 asn1crypto==0.22.0
 bcrypt==3.1.3
